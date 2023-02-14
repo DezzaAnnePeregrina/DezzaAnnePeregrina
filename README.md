@@ -17,12 +17,6 @@ In my free time, I enjoy traveling and exploring new cultures. From backpacking 
     <p align="center">
         <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=HTML5&color=493252&style=flat-square&logo=html5"/>
         <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=CSS3&color=493252&logoColor=blue&style=flat-square&logo=css3"/>
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=JAVASCRIPT&color=493252&style=flat-square&logo=javascript"/>
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=REACT.JS&color=493252&style=flat-square&logo=react"/>
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=REACT NATIVE&color=493252&style=flat-square&logo=react"/>
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=NODE.JS&color=493252&style=flat-square&logo=node.js"/>
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=MONGO-DB&color=493252&style=flat-square&logo=mongodb"/>
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=POSTGRE-SQL&color=493252&style=flat-square&logo=postgresql"/>
         <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=MYSQL&color=493252&logoColor=gold&style=flat-square&logo=mysql"/>
         <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=NETLIFY&color=493252&style=flat-square&logo=netlify"/>
         <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=VS CODE&color=493252&logoColor=blue&style=flat-square&logo=visual studio code"/>
