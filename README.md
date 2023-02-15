@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/dezzaanneperegrina/" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=INSTAGRAM&color=493252&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-As an aspiring skilled web developer, I have a deep interest in artificial intelligence and a passion for using technology to create innovative and user-friendly websites. I am constantly seeking new challenges and opportunities to enhance my skills and deliver top-quality results.
+As an aspiring to become a skilled web developer, I have a deep interest in artificial intelligence and a passion for using technology to create innovative and user-friendly websites. I am constantly seeking new challenges and opportunities to enhance my skills and deliver top-quality results.
 
 In my free time, I enjoy traveling and exploring new cultures. From backpacking to hiking, I am always looking for new adventures that allow me to broaden my horizons and gain new perspectives. This love of exploration, combined with my passion for technology, drives me to constantly grow and develop both professionally and personally. ✨
 
