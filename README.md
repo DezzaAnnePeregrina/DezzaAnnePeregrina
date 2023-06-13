@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/dezzaanneperegrina/" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=INSTAGRAM&color=493252&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-A web developer with a deep interest in artificial intelligence for using technology to create innovative and user-friendly websites. I am constantly seeking new challenges and opportunities to enhance my skills and deliver top-quality results.
+A web developer with a deep interest in artificial intelligence for using technology to create innovative and user-friendly websites. I am constantly seeking new challenges and opportunities to enhance my web development skills, with a goal to contribute effectively on a team.
 
 
 
