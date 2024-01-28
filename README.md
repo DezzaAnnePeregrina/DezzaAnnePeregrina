@@ -1,4 +1,4 @@
-<img src="https://imgur.com/DBgkbFW.jpeg" width="100%">
+<img src="https://imgur.com/oZNSRY0.jpeg" width="100%">
 
 <p align="center">
  <a href="https://linkedin.com/in/dezzaanneperegrina" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=LINKEDIN&color=493252&style=for-the-badge&logo=linkedin"/></a>
