@@ -1,16 +1,12 @@
 <img src="https://imgur.com/oZNSRY0.jpeg" width="100%">
 
 <p align="center">
- <a href="https://dezzaanneperegrina.tech" ><img src="https://img.shields.io/badge/Website-0077B5?label=|&labelColor=776B5D&style=for-the-badge&logo=esri&logoColor=white&color=776B5D"/></a>
+<!--  <a href="https://dezzaanneperegrina.tech" ><img src="https://img.shields.io/badge/Website-0077B5?label=|&labelColor=776B5D&style=for-the-badge&logo=esri&logoColor=white&color=776B5D"/></a> -->
  <a href="https://linkedin.com/in/dezzaanneperegrina" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=776B5D&message=LINKEDIN&color=776B5D&style=for-the-badge&logo=linkedin&"/></a>
 <a href="https://twitter.com/DezzaPeregrina" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=776B5D&message=TWITTER&color=776B5D&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <!-- <a href="https://www.facebook.com/peregrinadezzaanne" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=FACEBOOK&color=493252&style=for-the-badge&logo=facebook&logoColor=white"/></a> -->
 <a href="https://www.instagram.com/dezzaanneperegrina/" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=776B5D&message=INSTAGRAM&color=776B5D&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-
-A web developer with a deep interest in artificial intelligence for using technology to create innovative and user-friendly websites. I am constantly seeking new challenges and opportunities to enhance my web development skills, with a goal to contribute effectively on a team.
-
-
 
 ---
 
